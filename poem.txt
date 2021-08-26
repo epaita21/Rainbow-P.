@@ -1,5 +1,8 @@
 Green
 Blue
 Red
-yellow
+Yellow
 Orange
+Purple
+Pink
+These are the colors of the Rainbow
